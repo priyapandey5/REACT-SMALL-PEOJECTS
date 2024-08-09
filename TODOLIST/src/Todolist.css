@@ -1,0 +1,29 @@
+
+.navbar h1{
+    font-size: 35px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar{
+    margin-bottom: 1rem;
+    font-size: 10px;
+}
+
+.todolist input{
+    width:400px;
+    height: 35px;
+    border-radius: 15px;
+    border: 1px solid pink;
+    margin: 10px;
+
+}
+
+.todolist button{
+    font-size: small;
+    margin-right: 10px;
+    margin-bottom:5px;
+
+}
+
+.todolist ul{
+    list-style-type: none
+}
